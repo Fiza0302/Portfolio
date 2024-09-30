@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1714807241573-e843a80d081a?q=80&w=1376&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
+.btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2rem;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.one{
+    background-color: rgb(246, 142, 159);
+}
+.two{
+    background-color: rgb(109, 189, 157);
+}
+.three{
+    background-color: rgb(181, 140, 219);
+}
+.four{
+    background-color: rgb(238, 153, 88);
+}
+.gameflash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
